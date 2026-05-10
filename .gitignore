@@ -1,0 +1,5 @@
+dataset/
+*.npy
+*.h5
+__pycache__/
+.env
